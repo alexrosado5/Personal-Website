@@ -5,7 +5,6 @@ const siteData = {
       "PixelShield Agency",
       "Plugins",
       "IA",
-      "Web development",
       "Desarrollo digital",
       "Chatbot",
     ],
